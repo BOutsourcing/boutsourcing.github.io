@@ -11,4 +11,4 @@ Once ​iRobot ​finishes ​the ​task, ​task ​should ​be ​moved ​t
 There ​should ​be ​at ​least ​4 ​iRobots.
 Create ​a ​page ​that ​simulate ​behavior ​of ​this ​semi-automated ​kanban ​board.
 
-[![](http://boutsourcing.github.io/images/tasks/front/ikanban/iKanbanBoard.png)](http://boutsourcing.github.io/images/tasks/front/ikanban/iKanbanBoard.png)
+![iKanban Board](http://boutsourcing.github.io/images/tasks/front/ikanban/IKanbanBoard.png)

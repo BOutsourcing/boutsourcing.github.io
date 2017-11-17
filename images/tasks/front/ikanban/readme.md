@@ -1,4 +1,4 @@
-iKanban​ ​-​ ​Semi-Automated​ ​Kanban​ ​Board
+## iKanban​ ​-​ ​Semi-Automated​ ​Kanban​ ​Board
 
 Backlog ​list ​is ​filled ​with ​Tasks ​every ​8 ​seconds.
 Tasks ​are ​generated ​automatically ​with ​name ​“Task ​- ​current ​date ​time”.
@@ -10,3 +10,5 @@ iRobot ​definition ​of ​work ​time ​per ​task ​is ​defined ​by
 Once ​iRobot ​finishes ​the ​task, ​task ​should ​be ​moved ​to ​the ​Done ​list.
 There ​should ​be ​at ​least ​4 ​iRobots.
 Create ​a ​page ​that ​simulate ​behavior ​of ​this ​semi-automated ​kanban ​board.
+
+[![](http://boutsourcing.github.io/images/tasks/front/ikanban/iKanbanBoard.png)](http://boutsourcing.github.io/images/tasks/front/ikanban/iKanbanBoard.png)
